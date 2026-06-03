@@ -120,3 +120,24 @@ transactions by 35% within 3 months of go-live.
 ---
 
 ## 📁 Repository Structure
+ecommerce-payment-integration/
+├── README.md
+├── requirements/
+│   └── payment-lifecycle-requirements.md
+│   └── psd2-sca-requirements.md
+├── api/
+│   └── api-business-requirements.md
+└── reconciliation/
+└── reconciliation-rules.md
+
+---
+
+## 🔗 Related Projects
+
+- [Payment Systems Monitoring & API Analytics](https://github.com/rupeshpsurve/swift-iso20022-payment-monitoring)
+- [SmartWeather Analytics & Jira Scrum](#)
+
+---
+
+*This project is part of my BA portfolio demonstrating payments domain knowledge 
+and business analysis capability.*
